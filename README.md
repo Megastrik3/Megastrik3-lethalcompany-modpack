@@ -1,2 +1,66 @@
-# Megastrik3-lethalcompany-modpack
-A funny modpack for lethal company that makes the game scarier, more fun, and a great way to hangout with friends.
+# Lethal Company Modpack (Megastrik3)
+
+Welcome to the repository for our Lethal Company modpack! This repository contains the profile exports needed to sync up our mods so we can play together.
+
+## 📂 Repository Contents
+
+* **Standard Modpack:** The full experience.
+* **NoMeme Variant:** A version without mods that make enemies "funny" or silly, for a more serious atmosphere.
+
+---
+
+## 🛠️ Prerequisites
+
+Before installing the modpack, you need the mod manager software.
+
+### 1. Install r2modman
+We use **r2modman** to manage all mods. It is a safe, open-source manager that handles dependencies automatically.
+
+* [**Download r2modman here**](https://github.com/ebkr/r2modmanPlus/releases)
+    * *Note: Select the `r2modman-Setup-x.x.x.exe` asset from the latest release.*
+
+### 2. Download the Modpack File
+1.  Navigate to the **`Modpacks`** folder in this repository above.
+2.  Click on your preferred modpack file (e.g., `Megastrik3-modpack.r2z` or the `nomeme` version).
+3.  Download the file to your computer.
+
+---
+
+## 🚀 Installation Guide
+
+Follow these steps to get set up:
+
+### Step 1: Initial Setup
+1.  Run the **r2modman** installer you just downloaded.
+2.  Open the application.
+3.  On the home page, search for **Lethal Company**.
+4.  Click **Select game**.
+
+### Step 2: Import the Profile
+1.  On the profile selection screen, click **Import / Update**.
+2.  Select **From file**.
+3.  Navigate to your downloads folder and select the modpack file you downloaded from this repository.
+4.  Click the **Import** button on the bottom right of the file browser.
+5.  You will see a prompt showing the mods to be imported. Click the blue **Import** button on the bottom left.
+
+### Step 3: Create the Profile
+1.  When asked if you want to update an existing profile or create a new one, select **Import new profile**.
+2.  Look for the profile named **`Megastrik3-modpack-xxxx`**.
+3.  Ensure the name is highlighted in blue, then click **Select profile**.
+
+---
+
+## 🎮 How to Play
+
+1.  Make sure **Steam** is running on your computer.
+2.  In r2modman, ensure your profile is selected.
+3.  Click the **Start Modded** button in the top left corner.
+    * *Note: A command terminal may open briefly and scrolling text will appear. This is completely normal.*
+4.  The game will launch, and you are ready to play!
+
+---
+
+## ❓ Troubleshooting
+
+* **Game launches vanilla (unmodded)?** Ensure you clicked "Start Modded" in r2modman, not "Start Vanilla".
+* **Version Mismatch?** Check this repository to see if the modpack file has been updated recently.
