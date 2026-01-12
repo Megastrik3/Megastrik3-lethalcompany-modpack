@@ -1,8 +1,8 @@
 # Lethal Company Modpack (Megastrik3)
 
-Welcome to the repository for our Lethal Company modpack! This repository contains the profile exports needed to sync up our mods so we can play together.
+Welcome to the repository for our Lethal Company modpack! This repository tracks the mod profiles we use to play together.
 
-## 📂 Repository Contents
+## 📂 Modpack Variants
 
 * **Standard Modpack:** The full experience.
 * **NoMeme Variant:** A version without mods that make enemies "funny" or silly, for a more serious atmosphere.
@@ -20,9 +20,10 @@ We use **r2modman** to manage all mods. It is a safe, open-source manager that h
     * *Note: Select the `r2modman-Setup-x.x.x.exe` asset from the latest release.*
 
 ### 2. Download the Modpack File
-1.  Navigate to the **`Modpacks`** folder in this repository above.
-2.  Click on your preferred modpack file (e.g., `Megastrik3-modpack.r2z` or the `nomeme` version).
-3.  Download the file to your computer.
+1.  Look for the **Releases** section on the right-hand side of this repository page (or click the **Releases** tab if on mobile).
+2.  Click on the entry for the **Latest** release.
+3.  Scroll down to the **Assets** section.
+4.  Download the modpack file you prefer (e.g., `Megastrik3-modpack-full.r2z` or the `nomeme` version).
 
 ---
 
@@ -39,7 +40,7 @@ Follow these steps to get set up:
 ### Step 2: Import the Profile
 1.  On the profile selection screen, click **Import / Update**.
 2.  Select **From file**.
-3.  Navigate to your downloads folder and select the modpack file you downloaded from this repository.
+3.  Navigate to your downloads folder and select the modpack file (`.r2z`) you downloaded from the Releases section.
 4.  Click the **Import** button on the bottom right of the file browser.
 5.  You will see a prompt showing the mods to be imported. Click the blue **Import** button on the bottom left.
 
@@ -63,4 +64,4 @@ Follow these steps to get set up:
 ## ❓ Troubleshooting
 
 * **Game launches vanilla (unmodded)?** Ensure you clicked "Start Modded" in r2modman, not "Start Vanilla".
-* **Version Mismatch?** Check this repository to see if the modpack file has been updated recently.
+* **Version Mismatch?** Check the **Releases** tab to ensure you have the most recent version of the modpack profile.
