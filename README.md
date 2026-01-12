@@ -20,10 +20,15 @@ We use **r2modman** to manage all mods. It is a safe, open-source manager that h
     * *Note: Select the `r2modman-Setup-x.x.x.exe` asset from the latest release.*
 
 ### 2. Download the Modpack File
-1.  Look for the **Releases** section on the right-hand side of this repository page (or click the **Releases** tab if on mobile).
-2.  Click on the entry for the **Latest** release.
-3.  Scroll down to the **Assets** section.
-4.  Download the modpack file you prefer (e.g., `Megastrik3-modpack-full.r2z` or the `nomeme` version).
+Click the button below to go to the Releases page where the files are located:
+
+[![Download Modpack](https://img.shields.io/badge/Download-Modpack_Files-blue?style=for-the-badge&logo=github)](https://github.com/Megastrik3/Megastrik3-lethalcompany-modpack/releases)
+
+*(Or click here: https://github.com/Megastrik3/Megastrik3-lethalcompany-modpack/releases)*
+
+1.  Once on the Releases page, click on the **Latest** release title (e.g., "v1.0.0").
+2.  Scroll down to the **Assets** section at the bottom of that post.
+3.  Download the file you prefer (e.g., `Megastrik3-modpack-full.r2z` or the `nomeme` version).
 
 ---
 
@@ -40,7 +45,7 @@ Follow these steps to get set up:
 ### Step 2: Import the Profile
 1.  On the profile selection screen, click **Import / Update**.
 2.  Select **From file**.
-3.  Navigate to your downloads folder and select the modpack file (`.r2z`) you downloaded from the Releases section.
+3.  Navigate to your downloads folder and select the modpack file (`.r2z`) you downloaded from the Releases page.
 4.  Click the **Import** button on the bottom right of the file browser.
 5.  You will see a prompt showing the mods to be imported. Click the blue **Import** button on the bottom left.
 
@@ -64,4 +69,4 @@ Follow these steps to get set up:
 ## ❓ Troubleshooting
 
 * **Game launches vanilla (unmodded)?** Ensure you clicked "Start Modded" in r2modman, not "Start Vanilla".
-* **Version Mismatch?** Check the **Releases** tab to ensure you have the most recent version of the modpack profile.
+* **Version Mismatch?** Check the **Releases** link above to ensure you have the most recent version of the modpack profile.
